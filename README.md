@@ -24,7 +24,7 @@ Atualmente estou focado no desenvolvimento backend com **Java, Spring Boot** e *
 ### 📫 Onde me encontrar?  
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-martins-dos-santos-dev/)  
-[<img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](gabrielmartins669@hotmail.com)
+[<img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](mailto:gabrielmartins669@hotmail.com)
 
 ---
 
