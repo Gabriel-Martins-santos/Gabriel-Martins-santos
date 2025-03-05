@@ -8,7 +8,7 @@ Atualmente estou focado no desenvolvimento backend com **Java, Spring Boot** e *
 
 ---
 
-### 🚀 Tecnologias que estudo  
+### 🚀 Tecnologias que estudo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -21,21 +21,13 @@ Atualmente estou focado no desenvolvimento backend com **Java, Spring Boot** e *
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
----
-
 ### 📫 Onde me encontrar?  
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/seu-perfil)  
-[<img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](mailto:seu-email@hotmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-martins-dos-santos-dev/)  
+[<img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](gabrielmartins669@hotmail.com)
 
 ---
 
 🔹 Sempre aprendendo e evoluindo!
+
 
